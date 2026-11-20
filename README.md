@@ -6,3 +6,4 @@
 
 Правка из ветки feature-rebase
 c3b8cf3 (Update README in feature-rebase)
+В ридми вторглись инопланетные захватчики ауэбвэбвэлбвэ
